@@ -12,10 +12,17 @@
 
 🛠️ Tech Stack:
 React - Frontend
+
 Nodejs/Express - Backend
+
 Database - Mongodb
+
 State Management - Recoil
+
 Styling - ChakraUI
+
 Cloud Storage - Cloudinary
+
 Authentication - JWT
+
 Payment - Stripe
