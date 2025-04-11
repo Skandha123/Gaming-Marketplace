@@ -27,5 +27,5 @@ Authentication - JWT
 
 Payment - Stripe
 
-#Screenshots 
+
 
